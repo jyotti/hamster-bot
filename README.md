@@ -1,0 +1,4 @@
+hamster-bot
+===========
+
+Hubot
